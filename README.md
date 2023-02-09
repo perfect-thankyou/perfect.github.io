@@ -10,7 +10,7 @@ _rearview mirror_
 
 ~Uni~ ... no, wait, that's not what I meant at all
 
-<center>
+<p align=center>
 
 | World      | This one |
 | ----------- | ----------- |
@@ -18,4 +18,4 @@ _rearview mirror_
 | Block   | Urgle        |
 | Library | Fungal Growth |
 
-</center>
+</p>
