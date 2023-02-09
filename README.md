@@ -11,11 +11,9 @@ _rearview mirror_
 ~Uni~ ... no, wait, that's not what I meant at all
 
 <center>
-
 | World      | This one |
 | ----------- | ----------- |
 | Sync      | Monster       |
 | Block   | Urgle        |
 | Library | Fungal Growth |
-
 </center>
