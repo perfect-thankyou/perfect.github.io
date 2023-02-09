@@ -10,7 +10,8 @@ _rearview mirror_
 
 ~Uni~ ... no, wait, that's not what I meant at all
 
-| Syntax      | Description |
+| World      | This one |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Sync      | Monster       |
+| Block   | Urgle        |
+| Library | Fungal Growth |
